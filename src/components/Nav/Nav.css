@@ -1,0 +1,38 @@
+.navbar-card{
+    position: fixed;
+    color: rgb(103, 102, 102);
+    width: 40px;
+    font-size: 40px;
+    margin-top: 190px;
+    margin-left: 1300px;
+    border: 1px solid rgb(144, 142, 142);
+    border-radius: 150px;
+    }
+    .smi{
+        margin: 20px 0;
+    }
+    .p{
+        scroll-behavior: "smooth" ;
+        color: rgb(103, 102, 102);
+  
+    }
+    .logos{
+        scroll-behavior: "smooth" ;
+        border-radius: 60px;
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0px 10px;
+        cursor: pointer;
+        :hover{
+            color: #28E98C;
+        }
+    }
+    .logos2{
+        scroll-behavior: "smooth" ;
+        border-radius: 60px;
+        font-size: 20px;
+        font-weight: 700;
+        margin: 20px 10px;
+        cursor: pointer;
+        color: #28E98C;
+    }

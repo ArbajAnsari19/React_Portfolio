@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Devanagari:wght@100&display=swap');
+.third-page{
+margin-top: 100px;
+margin-left: 520px;
+}
+.btn{
+    font-size:13px;
+}
+.title{
+    margin: 40px 20px;
+    font-family: 'Inter', sans-serif;
+}
+.title-intro{
+    color: white;
+    font-size: 50px;
+}
+.span1{
+    color:#28E98C;
+}
+.uls{
+    padding: 8px 50px;
+    border-radius: 20px;
+    border-left: 0.5px solid rgb(137, 136, 136);
+    font-family: 'Poppins', sans-serif;
+    color: rgb(201, 201, 201);
+    margin: 50px 20px;
+}
+.lis{
+    margin: 10px;
+}
+.h3txt{
+    margin: 10px 0;
+    font-size: 25px;
+    color: rgb(129, 126, 126);
+}
+
+@media (max-width:500px) {
+    .third-page{
+        margin-left: 15px;
+    }
+    .uls{
+        width: 390px;
+    }
+}

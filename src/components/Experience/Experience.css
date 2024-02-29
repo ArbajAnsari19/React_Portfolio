@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Devanagari:wght@100&display=swap');
+.second-page{
+margin-top: 100px;
+margin-left: 520px;
+}
+.btn{
+    margin-top: 40px;
+    font-size: 10px;
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: rgb(197, 193, 193);
+    border: 1px solid rgb(132, 127, 127);
+    background: transparent;
+.icon{
+    margin-right: 8px;
+}
+}
+.title{
+    margin: 40px 20px;
+    font-family: 'Inter', sans-serif;
+}
+.title-intro{
+    color: white;
+    font-size: 50px;
+}
+.span1{
+    color:#28E98C;
+}
+.ul{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(201, 201, 201);
+    margin: 50px 20px;
+}
+.h3tx{
+    margin: 10px 0;
+    font-size: 14px;
+    color: rgb(129, 126, 126);
+}
+.para{
+    font-size: 15px;
+    color: azure;
+}
+.h3txt2{
+    font-weight: 200;
+    font-size: 25px;
+}
+@media (max-width:500px) {
+    .second-page{
+        margin-left: 20px;
+    }
+    .intro{
+        margin-left: 20px;
+    }
+}
